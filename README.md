@@ -20,6 +20,6 @@ A simple Python-based OTP (One-Time Password) verification system for secure use
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/kiruthika2058/otp-verification.git
+git clone https://github.com/murali1304-hub/otp-verification.git
 cd otp-verification
 pip install -r requirements.txt
